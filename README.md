@@ -1,6 +1,6 @@
-# basic-auth
+# User Registration and Authentication using Express.js, ironlauncher
 
-## User Registration and Authentication using Express.js, ironlauncher
+## basic-auth
 
 This code snippet demonstrates the essential steps for user registration and authentication within an Express.js application. Here's a breakdown of what it does:
 
